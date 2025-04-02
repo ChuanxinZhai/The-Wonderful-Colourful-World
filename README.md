@@ -56,6 +56,34 @@ and then set the color of that pixel to 255 – G.
 ![image](https://github.com/user-attachments/assets/7036f11f-3eb3-4764-9bb9-7521fce182e7)
 ![image](https://github.com/user-attachments/assets/978df657-6966-4ed4-9513-2b6cc3b7dc96)
 
+### Part B - Creative Image Transforms
+
+##### Part B.1 - Positional Transform
+
+Write a method positionalTransform, that will transform the pixel positions of the original picture and display the original and transformed images side by side in the same picture. The original and transform must be drawn on the same image.  
+
+![image](https://github.com/user-attachments/assets/8621a3b2-3d2c-42b0-bbf2-50ebb91cf094)
+![image](https://github.com/user-attachments/assets/a74096a6-f336-468c-9789-0e72b0f491de)
+
+
+##### Part B.2 - Color Transform
+
+Write a method colorTransform that will transform the Color of the pixel of the original picture. The original and transform must be drawn on the same image.  
+
+![image](https://github.com/user-attachments/assets/2f649aa8-c52d-4ce4-84ef-30b062607e0c)
+![image](https://github.com/user-attachments/assets/37b1e416-6d7f-41c5-ab10-c385cd36b9a3)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
